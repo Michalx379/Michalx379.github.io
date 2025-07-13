@@ -1,0 +1,4 @@
+MyWebsite/
+├── index.html
+├── seite2.html
+├── seite3.html
